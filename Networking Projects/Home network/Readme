@@ -1,0 +1,8 @@
+Creating a simple home network without any tutorials or help. Even though i've made more robust projects in school including protocols 
+and servers, i wanted to try and recreate my own network using PT. 
+
+The setup consists of two home routers, each with its own network though connected to eachother to have the same connection to the ISP.
+Inside the network there is a landline and a PC connected directly to the main router, the rest of the devices being wireless 
+devices and IoT's like smartphones, smart TV's, and a bluetooth speaker. 
+
+Both routers have WPA 2 Personal security with the password "HomeNetwork". 
